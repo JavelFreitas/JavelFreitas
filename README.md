@@ -8,8 +8,9 @@
 - 😄 Pronouns: He/Him
 
 
-<div style="display: flex; justify-content: space-between">
-<br>
+---
+<div style="display: flex;">
+
 <div>
 
 <div style="display: flex; flex-direction:column;">
@@ -38,18 +39,21 @@
 
 </div>
 </div>
-<br>
 
-<div style="text-align:center">
+</div>
+
+---
+
+<div style="display: flex;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelfreitas&show_icons=true&theme=dracula&line_height=20&custom_title=Github%20stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javelfreitas&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+<div>
 <h2> 🗺️ Some Updates </h2>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=javelqf&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
-</div>
-</div>
-<br>
-<div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelfreitas&show_icons=true&theme=dracula&line_height=20&custom_title=Github%20stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javelfreitas&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
