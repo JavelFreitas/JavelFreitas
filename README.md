@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working as a Frontend Developer
 - 📫 How to reach me: javelqueiroz@alu.ufc.br
+- [👀 My social media](https://bit.ly/3O9U44E)
 - 😄 Pronouns: He/Him
 
 
